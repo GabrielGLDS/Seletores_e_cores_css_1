@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    color: #0000ff;
+}
+
+span{
+    background-color: #0000ff;
+    color: #ffffff;
+}
+
+.box{
+    background-color: #e3e3e3;
+    color: #001e32;
+    margin-top: 10px;
+}
+
+#box2{
+    background-color: #001e32;
+    color: #e3e3e3;
+}
